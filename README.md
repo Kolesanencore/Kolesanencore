@@ -1,5 +1,5 @@
 <h1>This «thing» is under construction... 👨‍🎨</h1>
-background-color:red;
+
 ### Hi there, I'm Sergey 👋
 
 - 🔭 I’m currently working on **a lot of different stuff**
@@ -9,6 +9,10 @@ background-color:red;
 
 
 ### My stack and tools
+
+<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="MySQL" width="32px" src="https://www.pngall.com/wp-content/uploads/2016/07/Photoshop-Logo-Free-PNG-Image.png" /> 
 
 <!-- <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> -->
 
@@ -32,7 +36,7 @@ background-color:red;
 
 <!-- <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" /> -->
 
-<img align="left" alt="MySQL" width="32px" src="https://www.pngall.com/wp-content/uploads/2016/07/Photoshop-Logo-Free-PNG-Image.png" /> 
+
 
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -40,4 +44,4 @@ background-color:red;
 
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
