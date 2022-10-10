@@ -1,5 +1,5 @@
 <h1>This «thing» is under construction... 👨‍🎨</h1>
-
+background-color:red;
 ### Hi there, I'm Sergey 👋
 
 - 🔭 I’m currently working on **a lot of different stuff**
