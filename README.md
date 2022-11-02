@@ -1,10 +1,10 @@
-<h1>This «thing» is under construction... 👨‍🎨</h1>
+<h1>This «thing» is under construction... 🫧</h1>
 
-### Hi there, I'm Sergey 👋
+### Hi there, I'm Sergey 👋 🇺🇦
 
 
-- 🔭 I’m currently learning **a lot of different things**
-- 🤔 I’m looking for help with **finding more time in a single day**
+- 🧬 I’m currently learning **a lot of different things**
+- ⏳ I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me: **kolesanencore@gmail.com**
 
 ### My stack and tools
