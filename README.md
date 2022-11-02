@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Sergey 👋
 
-- 🔭 I’m currently working on **a lot of different stuff**
-- 🌱 I’m currently learning **everything I can get my hands on**
+
+- 🔭 I’m currently learning **a lot of different things**
 - 🤔 I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me: **kolesanencore@gmail.com**
 
