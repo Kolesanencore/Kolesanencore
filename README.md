@@ -1,6 +1,6 @@
 <h1>This «thing» is under construction... 🫧</h1>
 
-### Hi there, I'm Sergey 👋 🇺🇦
+### Hi there, I'm Serhii 👋 🇺🇦
 
 
 - 🧬 I’m currently learning **a lot of different things**
